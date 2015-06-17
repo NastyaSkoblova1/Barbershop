@@ -62,7 +62,7 @@ p {
 } 
 
 .user-block { 
-    max-width: 140px; 
+    max-width: 141px; 
     float: right; 
 }    
 
@@ -75,7 +75,7 @@ p {
 } 
 
 .filters { 
-    margin-right: 65px; 
+    margin-right: 66px; 
     float: left;
     width: 180px;
 }  
@@ -85,7 +85,7 @@ p {
 }  
 
 fieldset {
-    margin-bottom: 50px; 
+    margin-bottom: 49px; 
 }   
 
 .goods {
@@ -94,7 +94,7 @@ fieldset {
 }   
 
 .goods-catalog {
-    margin-bottom: 40px; 
+    margin-bottom: 39px; 
 } 
 
 .goods-thing {
@@ -134,20 +134,15 @@ fieldset {
 }  
 
 .headline {
-    margin-bottom: 65px; 
+    margin-bottom: 66px; 
     text-align: center; 
 } 
 
 .column-half {
-    margin-right: 90px;
+    margin-right: 20px;
     float: left; 
     width: 460px;  
-}     
-
-.column-half:last-child {
-    margin-right: 0; 
-    width: 390px; 
-} 
+}      
 
 .column-half h2 {
     margin-bottom: 30px; 
@@ -165,8 +160,8 @@ fieldset {
 
 .item-img-small img {
     margin-right: 20px; 
-    width: 140px; 
-    height: 150px; 
+    width: 139px; 
+    height: 149px; 
 }  
 
 .item-img-small img:last-child {
@@ -174,28 +169,28 @@ fieldset {
 }  
 
 .item-status {
-    margin: 0 0 40px 70px; 
+    margin: 0 0 39px 69px; 
 }  
 
 .item-description {
-    margin: 0 0 40px 70px; 
+    margin: 0 0 39px 69px; 
 } 
 
 .column-half .goods-cost {
-    margin: 0 0 65px 70px;  
+    margin: 0 0 65px 69px;  
 }  
 
 .column-half h2 {
-    margin: 0 0 35px 70px; 
+    margin: 0 0 36px 69px; 
 }  
 
-.item-structure {
-    margin: 0 0 185px 70px; 
+.item-structure { 
+    margin: 0 0 185px 69px; 
 }  
 
 .salon h2 {
    margin-left: 0; 
-}
+} 
 
 
 .main-footer {
