@@ -1,0 +1,221 @@
+body {
+    font-size: 14px; 
+    line-height: 24px; 
+    font-color: #000000; 
+    font-weight: bold; 
+    font-family: "PTSans Narrow", sans-serif;
+    
+} 
+
+h1 {
+    font-size: 30px; 
+    line-height: 56,44px;
+    font-color: #000000; 
+    font-weigth: bold; 
+    font-family: "PTSans Narrow", sans-serif;   
+    
+} 
+
+h2 {
+    font-size: 24px; 
+    line-height: 42,33px; 
+    font-color: #000000; 
+    font-weight: bold; 
+    font-family: "PTSans Narrow", sans-serif; 
+    
+}    
+
+p {
+    font-size: 14px; 
+    line-height: 24px; 
+    font-color: #000000; 
+    font-weight: bold; 
+    font-family: "PTSans Narrow", sans-serif;
+} 
+
+.clearfix::after {
+    content: ''; 
+    display: table; 
+    clear: both; 
+}  
+
+.main-header {
+    margin-bottom: 60px; 
+    padding: 5px 0; 
+}    
+
+.container {
+    margin: 0 auto;
+    padding: 0 10px;
+    width: 960px; 
+} 
+
+.main-navigator {
+    float: left; 
+    width: 780px;  
+}   
+
+.main-navigator ul {
+    margin: 0; 
+    padding: 0; 
+    list-style: none; 
+} 
+
+.user-block { 
+    max-width: 140px; 
+    float: right; 
+}    
+
+.sub-title {
+    margin-bottom: 30px; 
+} 
+
+.breadcrumbs {
+    margin-bottom: 60px; 
+} 
+
+.filters { 
+    margin-right: 65px; 
+    float: left;
+    width: 180px;
+}  
+
+.filters legend {
+    margin-bottom: 30px; 
+}  
+
+fieldset {
+    margin-bottom: 50px; 
+}   
+
+.goods {
+    float: right; 
+    width: 710px;  
+}   
+
+.goods-catalog {
+    margin-bottom: 40px; 
+} 
+
+.goods-thing {
+    margin-right: 20px; 
+    width: 220px; 
+    margin-bottom: 20px; 
+    display: inline-block; 
+}  
+
+.goods-thing:nth-child(3n) {
+    margin-right: 0; 
+}   
+
+.goods-thing span {
+    display: block; 
+}   
+
+.goods-image {
+    margin-bottom: 18px; 
+    display: block; 
+}  
+
+.goods-brand {
+    margin-bottom: 15px; 
+} 
+
+.goods-thing .cost {
+    display: inline-block;  
+}  
+
+.goods-thing .btn-buy {
+    display: inline-block; 
+}  
+
+.paginator {
+    margin-bottom: 45px; 
+}  
+
+.headline {
+    margin-bottom: 65px; 
+    text-align: center; 
+} 
+
+.column-half {
+    margin-right: 90px;
+    float: left; 
+    width: 460px;  
+}     
+
+.column-half:last-child {
+    margin-right: 0; 
+    width: 390px; 
+} 
+
+.column-half h2 {
+    margin-bottom: 30px; 
+} 
+
+.item-img {
+    margin-bottom: 20px; 
+    width: 462px; 
+    height: 500px; 
+}    
+
+.item-img-small {
+    font-size: 0;  
+} 
+
+.item-img-small img {
+    margin-right: 20px; 
+    width: 140px; 
+    height: 150px; 
+}  
+
+.item-img-small img:last-child {
+    margin-right: 0;  
+}  
+
+.item-status {
+    margin: 0 0 40px 70px; 
+}  
+
+.item-description {
+    margin: 0 0 40px 70px; 
+} 
+
+.column-half .goods-cost {
+    margin: 0 0 65px 70px;  
+}  
+
+.column-half h2 {
+    margin: 0 0 35px 70px; 
+}  
+
+.item-structure {
+    margin: 0 0 185px 70px; 
+}  
+
+.salon h2 {
+   margin-left: 0; 
+}
+
+
+.main-footer {
+    padding-top: 60px; 
+    padding-bottom: 41px; 
+}  
+
+.footer-contact {
+    margin-right: 80px; 
+    width: 320px; 
+    float: left; 
+}   
+
+ 
+.footer-social {
+    float: left; 
+    text-align: center; 
+} 
+
+.footer-copyright {
+    max-width: 170px; 
+    float: right; 
+}  
